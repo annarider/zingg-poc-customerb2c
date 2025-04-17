@@ -1,0 +1,15 @@
+z_minScore,z_maxScore,z_cluster,recId,fname,lname,stNo,add1,add2,city,areacode,state,dob,ssn
+1.0,1.0,50,rec-1040-dup-2,matilda,mestrov,5,house circuit,retiremen tvillage,taringa,3820,"",19801119,2563135
+,,45,rec-1038-org,danny,campbell,95,totterdell street,moama,shellharbour,2209,vic,19951105,9554924
+,,20,rec-1029-dup-2,annalise,stephenson,81,rose scott circuit,cordoba manor,ashfoeld,4226,vic,19461101,4783085
+1.0,1.0,50,rec-1040-org,matilda,mestrov,5,house circuit,retirement village,taringa,3820,qld,19801119,2563135
+,,41,rec-1036-dup-0,"",held,24,lampard circuit,emerald garden,golden bay,2447,vic,19510806,3710651
+0.9999335047476847,0.9999335047476847,3,rec-1022-dup-1,Érik,Guay,840,mountview,fowles treet,burlei gh heads,2803,sa,19830807,2932837
+1.0,1.0,50,rec-1040-dup-1,matilda,mestrv,5,house circuit,retirement village,taringa,3802,qld,19801119,2563135
+1.0,1.0,56,rec-1042-dup-0,kiandra,"",2,gatliff place,rustenburg sth,girgarre,3995,qld,19801125,3328205
+0.9999999999982399,1.0,18,rec-1029-dup-3,kykee,turale,81,rose scott circuit,"",ashfield,4226,vic,19461101,4783085
+0.7200072071632739,1.0,36,rec-1035-dup-3,jaiden,rolli ns,48,tulgeywomod,rossarden street,balwyn north,2224,nf,19280722,7626396
+1.0,1.0,56,rec-1042-org,kiandra,cowle,2,gatliff place,rustenburg sth,girgarre,3995,qld,19801125,3328205
+1.0,1.0,46,rec-1039-org,angus,rosa,62,gormanston crescent,mlc centre,kirwan,3350,sa,19250817,2655081
+1.0,1.0,11,rec-1026-org,xani,green,2,phillip avenue,abbey green,armidale,5108,nsw,19390410,9201057
+1.0,1.0,5,rec-1022-org,jackson,eglinton,840,fowles street,mountview,burleigh heads,2830,sa,19830807,2932837

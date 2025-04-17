@@ -1,0 +1,22 @@
+z_minScore,z_maxScore,z_cluster,recId,fname,lname,stNo,add1,add2,city,areacode,state,dob,ssn
+0.9999999999999678,0.9999999999999678,48,rec-104-dup-0,benjaminl,carbone,18,arthella,wattle s treet,orange,3550,vic,19050820,3677127
+,,34,rec-1034-dup-2,hayley,maynard,14,wilshire street,"",little river,2777,vic,19970430,7429462
+1.0,1.0,28,rec-1032-dup-0,brooklyn,naar-cafentas,210,duffy street,tourist psrk,berwick,2481,nsw,"",3624304
+,,19,rec-1029-dup-1,sachin,stephenson,81,rose scott circuit,cordoba manor,ashfi eld,4226,vic,19461101,4783085
+0.9999335047476847,0.9999335047476847,3,rec-1022-dup-2,Érik,Guay,840,fowles street,moun tvjiew,burleigh heads,2830,ss,"",2932837
+0.9999999711890335,0.9999999999998931,32,rec-1034-dup-1,erin,maynard,51,wilshire street,warialda,little irver,2777,vic,19970430,1815999
+,,42,rec-1036-dup-1,sarsha,held,42,lampard circuit,"",golden bay,2447,vic,19510806,3710651
+1.0,1.0,5,rec-1022-dup-3,jackson,christo,840,fowles street,mou ntveiw,burleig heads,2830,sa,19830807,2932837
+1.0,1.0,30,rec-1033-dup-0,keziah,painter,18,ainsli e avenue,sec 1,torquay,3205,vic,19191031,7801066
+1.0,1.0,54,rec-1041-dup-0,tyler,frojd,"",burramurra avenue,kmart p plaza,san rmeo,3670,sa,19800916,7812219
+1.0,1.0,28,rec-1032-org,brooklyn,naar-cafentas,210,duffy street,tourist park,berwick,2481,nsw,19840802,3624304
+1.0,1.0,1,rec-1021-org,thomas,george,1,mcmanus place,stoney creek,north turramurra,3130,sa,19630225,5460534
+,,26,rec-1030-org,emma,crossman,53,mcdowall place,kellhaven,tara,5608,vic,19391027,3561186
+1.0,1.0,30,rec-1033-org,keziah,painter,18,ainslie avenue,sec 1,torquay,3205,vic,19191031,7801066
+,,8,rec-1023-org,gianni,matson,701,willis street,boonooloo,clifton,3101,vic,19410111,2540080
+0.999999999999985,1.0,18,rec-1029-org,kylee,stephenson,81,rose scott circuit,cordoba manor,ashfield,4226,vic,19461101,4783085
+0.9956291366753315,0.9956291366753315,24,rec-103-org,briony,koerbin,146,violet grover place,wybelanah,mill park,2446,nsw,19210210,3808808
+1.0,1.0,60,rec-1044-dup-1,nicole,carbone,46,schlich nstreet,simpson army barracks,toowoomba,3000,wa,19030926,8190756
+0.9999999999999996,1.0,60,rec-1044-dup-2,nicole,carbone,46,schlich street,simpson arm ybarracks,toowong,3000,wa,19030926,8190756
+1.0,1.0,15,rec-1028-dup-0,"","",24,"",woorinyan,riverwood,3749,qld,19180205,9341716
+1.0,1.0,11,rec-1026-dup-1,xani,green,2,phillip avenue,abbey green,armidale,5108,nsw,19390410,9201857

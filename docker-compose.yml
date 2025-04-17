@@ -1,0 +1,9 @@
+services:
+  zingg:
+    image: zingg/zingg:0.4.0
+    container_name: zingg
+    volumes:
+      - ./output:/tmp/zinggOutput
+      - ./models:/zingg-0.4.0/models
+    tty: true
+    stdin_open: true

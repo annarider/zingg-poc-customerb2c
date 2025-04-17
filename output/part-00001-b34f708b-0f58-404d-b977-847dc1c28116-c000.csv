@@ -1,0 +1,15 @@
+z_minScore,z_maxScore,z_cluster,recId,fname,lname,stNo,add1,add2,city,areacode,state,dob,ssn
+,,10,rec-1025-org,emiily,britten,8,kitchener street,hilltop hostel rowethorpe,lake heights,2463,qld,19491021,9588775
+0.9754668979277252,1.0,36,rec-1035-dup-0,jaiden,rollins,48,tulgeywood,rossarden street,balwyn north,2224,nt,19280722,7626396
+1.0,1.0,1,rec-1021-dup-0,thomas,georgze,1,mcmanus place,"",north turarmurra,3130,sa,19630225,5460534
+0.9999998436116577,1.0,36,rec-1035-org,jaiden,rollins,48,rossarden street,tulgeywood,balwyn north,2224,nt,19280722,7626396
+1.0,1.0,5,rec-1022-dup-4,jackson,eglinton,840,fowles street,mountv iew,burleigh heads,2830,sa,19830807,2932837
+,,43,rec-1036-org,amber,held,24,lampard circuit,emerald garden,golden bay,2447,vic,19510806,3710651
+0.9999999999999678,0.9999999999999678,48,rec-104-org,benjamin,carbone,18,wattle street,arthella,orange,3550,vic,19050820,3677127
+,,0,rec-1020-org,blake,ryan,4,starling place,berkeley vlge,marsden,5412,nsw,19271027,2402765
+0.7200072071632739,0.9999999999999962,36,rec-1035-dup-1,jaiden,rollins,95,rossarden street,tulgewyood,balwyn north,2224,nt,19280722,7626396
+1.0,1.0,11,rec-1026-dup-0,xani,green,"",phill ip avenue,"",armidale,5108,nsw,19390410,9201057
+0.9999999711890335,1.0,32,rec-1034-dup-0,erin,maynard,24,"",wariala,little river,2777,vic,19970430,7429462
+,,9,rec-1024-org,takeisha,freeborn,6,suttor street,the groves street,wentworth falls,4615,vic,19620206,8111362
+0.9999999999961093,0.999999999999985,18,rec-1029-dup-4,kylee,stephenson,81,cordoba manor,rose scott circuit,ashfield,4226,vic,19461101,4783085
+,,59,rec-1043-org,giorgia,frahn,62,handasyde street,ramano estate locn 1,tallebudgera,4506,vic,19670206,9724789

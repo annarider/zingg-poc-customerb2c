@@ -1,0 +1,17 @@
+z_minScore,z_maxScore,z_cluster,recId,fname,lname,stNo,add1,add2,city,areacode,state,dob,ssn
+1.0,1.0,50,rec-1040-dup-0,matilda,mestrov,"",housecicuit,retirement village,taringa,3820,qld,19801119,2536135
+0.9999999999961093,1.0,18,rec-1029-dup-0,kylee,stepehndon,81,rose scott circuit,cordobak anor,ashfield,4226,vic,19461101,4783085
+0.9999999999999999,1.0,60,rec-1044-dup-3,nicole,carbone,46,schlich street,simpsonary barracks,toowoomba,3000,wa,19030926,8190756
+1.0,1.0,46,rec-1039-dup-0,angus,roas,62,gormansto crescent,mlc centre,kiruwah,3350,sa,19250817,2655081
+0.9999997349076736,1.0,36,rec-1035-dup-2,jaiden,rolilns,48,swinden street,tulgeywood,balwyn north,2224,nt,19280722,7626396
+1.0,1.0,15,rec-1028-org,"",eglinton,24,currie crescent,woorinyan,riverwood,3749,qld,19180205,9341716
+1.0,1.0,56,rec-1042-dup-1,kiandra,cowle,2,gatliff place,rustenubr g sth,girgarre,3995,qld,19801125,3328205
+1.0,1.0,60,rec-1044-org,nicole,carbone,46,schlich street,simpson army barracks,toowoomba,3000,wa,19030926,8190756
+0.9999999999999996,1.0,60,rec-1044-dup-0,nicole,shadbolt,46,schlich s treet,simpson army barracks,toowoomba,3000,wa,19030926,8190756
+0.9999999999998931,1.0,32,rec-1034-org,erin,maynard,14,wilshire street,warialda,little river,2777,vic,19970430,7429462
+1.0,1.0,15,rec-1028-dup-1,"",eglinton,24,curriecrescent,woorinyan,riverwood,3749,qld,19180205,1909717
+,,27,rec-1031-org,samantha,sabieray,68,quandong street,wattle brae,gorokan,4019,wa,19590807,2863290
+1.0,1.0,54,rec-1041-org,tyler,froud,8,burramurra avenue,kmart p plaza,san remo,3670,sa,19800916,7812219
+,,14,rec-1027-org,nathan,smallacombe,20,guthridge crescent,red cross units,sandy bay,6056,sa,19241223,7522263
+,,44,rec-1037-org,connor,beckwith,10,heard street,"",mill park,5031,nsw,19081103,2209091
+0.9956291366753315,0.9956291366753315,24,rec-103-dup-0,benjamin,koerbin,15,wybel anah,violet grover place,mill park,2446,nsw,19210210,3808808
