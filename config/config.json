@@ -1,130 +1,64 @@
 {
-    "fieldDefinition": [
-        {
-            "fieldName": "b_pubid",
-            "matchType": "dont_use",
-            "fields": "b_pubid",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "b_sourceid",
-            "matchType": "dont_use",
-            "fields": "b_sourceid",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "b_classname",
-            "matchType": "dont_use",
-            "fields": "b_classname",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "id",
-            "matchType": "dont_use",
-            "fields": "id",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "b_matchgrp",
-            "matchType": "fuzzy",
-            "fields": "b_matchgrp",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "b_xgrp",
-            "matchType": "dont_use",
-            "fields": "b_xgrp",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "b_dupsoperationid",
-            "matchType": "dont_use",
-            "fields": "b_dupsoperationid",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "first_name",
-            "matchType": "fuzzy",
-            "fields": "first_name",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "last_name",
-            "matchType": "fuzzy",
-            "fields": "last_name",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "nickname",
-            "matchType": "fuzzy",
-            "fields": "nickname",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "normalized_first_name",
-            "matchType": "fuzzy",
-            "fields": "normalized_first_name",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "normalized_last_name",
-            "matchType": "fuzzy",
-            "fields": "normalized_last_name",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "phonetic_first_name",
-            "matchType": "fuzzy",
-            "fields": "phonetic_first_name",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "phonetic_last_name",
-            "matchType": "fuzzy",
-            "fields": "phonetic_last_name",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "member_id",
-            "matchType": "exact",
-            "fields": "member_id",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "date_of_birth",
-            "matchType": "exact",
-            "fields": "date_of_birth",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "source_email",
-            "matchType": "fuzzy",
-            "fields": "source_email",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "cleansed_email",
-            "matchType": "fuzzy",
-            "fields": "cleansed_email",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "source_phone",
-            "matchType": "fuzzy",
-            "fields": "source_phone",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "standardized_phone",
-            "matchType": "fuzzy",
-            "fields": "standardized_phone",
-            "dataType": "string"
-        },
-        {
-            "fieldName": "normalized_street",
-            "matchType": "fuzzy",
-            "fields": "normalized_street",
-            "dataType": "string"
+  "fieldDefinition": [
+      {
+          "fieldName": "b_pubid",
+          "matchType": "dont_use",
+          "fields": "b_pubid",
+          "dataType": "string"
+      },
+      {
+          "fieldName": "b_sourceid",
+          "matchType": "dont_use",
+          "fields": "b_sourceid",
+          "dataType": "string"
+      },
+      {
+          "fieldName": "id",
+          "matchType": "dont_use",
+          "fields": "id",
+          "dataType": "string"
+      },
+      {
+          "fieldName": "b_matchgrp",
+          "matchType": "dont_use",
+          "fields": "b_matchgrp",
+          "dataType": "string"
+      },
+      {
+          "fieldName": "b_xgrp",
+          "matchType": "dont_use",
+          "fields": "b_xgrp",
+          "dataType": "string"
+      },
+      {
+          "fieldName": "normalized_first_name",
+          "matchType": "fuzzy",
+          "fields": "normalized_first_name",
+          "dataType": "string"
+      },
+      {
+          "fieldName": "normalized_last_name",
+          "matchType": "fuzzy",
+          "fields": "normalized_last_name",
+          "dataType": "string"
+      },
+      {
+          "fieldName": "member_id",
+          "matchType": "fuzzy",
+          "fields": "member_id",
+          "dataType": "string"
+      },
+      {
+          "fieldName": "date_of_birth",
+          "matchType": "exact",
+          "fields": "date_of_birth",
+          "dataType": "date"
+      },
+      {
+          "fieldName": "normalized_street",
+          "matchType": "fuzzy",
+          "fields": "normalized_street",
+          "dataType": "string"
         },
         {
             "fieldName": "normalized_city",
@@ -151,42 +85,42 @@
             "dataType": "string"
         },
         {
-            "fieldName": "person_type",
-            "matchType": "exact",
-            "fields": "person_type",
+            "fieldName": "cleansed_email",
+            "matchType": "fuzzy",
+            "fields": "cleansed_email",
             "dataType": "string"
         },
         {
-            "fieldName": "guess_gender",
-            "matchType": "exact",
-            "fields": "guess_gender",
+            "fieldName": "standardized_phone",
+            "matchType": "fuzzy",
+            "fields": "standardized_phone",
             "dataType": "string"
         }
-    ],
-    "output": [
-        {
-            "name": "output",
-            "format": "csv",
-            "props": {
-                "location": "/tmp/zinggOutput",
-                "delimiter": ",",
-                "header": true
-            }
-        }
-    ],
-    "data": [
-        {
-            "name": "input_data",
-            "format": "csv",
-            "props": {
-                "location": "./path/to/your/local/file.csv",
-                "delimiter": ",",
-                "header": true
-            }
-        }
-    ],
-    "labelDataSampleSize": 0.5,
-    "numPartitions": 4,
-    "modelId": 100,
-    "zinggDir": "models"
+],
+  "output": [
+      {
+          "name": "2025-04-22-mi_person_trained_output",
+          "format": "csv",
+          "props": {
+              "location": "/tmp/zinggOutput",
+              "delimiter": ",",
+              "header": true
+          }
+      }
+  ],
+  "data": [
+      {
+          "name": "mi_person_245",
+          "format": "csv",
+          "props": {
+              "location": "/data/mi_person_245.csv",
+              "delimiter": ",",
+              "header": true
+          }
+      }
+  ],
+  "labelDataSampleSize": 0.5,
+  "numPartitions": 4,
+  "modelId": 100,
+  "zinggDir": "models"
 }
