@@ -6,10 +6,10 @@ df = pd.read_csv("mi_person_245_all_columns.csv")
 # Select only the columns you want to keep
 columns_to_keep = [
     "b_pubid",
-    "b_sourceid" "id",
+    "b_sourceid",
+    "id",
     "b_matchgrp",
     "b_xgrp",
-    "b_dupsoperationid",
     "normalized_first_name",
     "normalized_last_name",
     "member_id",
