@@ -44,7 +44,7 @@
       },
       {
           "fieldName": "member_id",
-          "matchType": "fuzzy",
+          "matchType": "numeric",
           "fields": "member_id",
           "dataType": "string"
       },
@@ -86,7 +86,7 @@
         },
         {
             "fieldName": "cleansed_email",
-            "matchType": "fuzzy",
+            "matchType": "email",
             "fields": "cleansed_email",
             "dataType": "string"
         },
