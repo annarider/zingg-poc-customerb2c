@@ -99,7 +99,7 @@
 ],
   "output": [
       {
-          "name": "2025-04-22-mi_person_trained_output",
+          "name": "2025-04-24-mi_person_trained_output",
           "format": "csv",
           "props": {
               "location": "/tmp/zinggOutput",
@@ -110,15 +110,26 @@
   ],
   "data": [
       {
-          "name": "mi_person_245",
+          "name": "mi_person_337",
           "format": "csv",
           "props": {
-              "location": "/data/mi_person_245.csv",
+              "location": "/data/mi_person_337.csv",
               "delimiter": ",",
               "header": true
           }
       }
   ],
+    "trainingSamples" : [{
+		"name":"2025-04-24_zingg_training_data", 
+		"format":"csv", 
+		"props": {
+			"location": "../training/2025-04-24_zingg_training_data.csv",
+			"delimiter": ",",
+			"header":false,
+			"badRecordsPath":"/tmp/bad"					
+			},
+		"schema": "b_pubid string, b_sourceid string, id string, b_matchgrp string, b_xgrp string, normalized_first_name string, normalized_last_name string, member_id string, date_of_birth string, normalized_street string, normalized_city string, normalized_state string, addpostal_code string, addcountry string, cleansed_email string, standardized_phone string, z_cluster string, z_isMatch integer"		
+        }],
   "labelDataSampleSize": 0.5,
   "numPartitions": 4,
   "modelId": 100,
