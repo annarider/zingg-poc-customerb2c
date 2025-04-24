@@ -1,0 +1,17 @@
+b_pubid,b_sourceid,id,b_matchgrp,b_xgrp,normalized_first_name,normalized_last_name,member_id,date_of_birth,normalized_street,normalized_city,normalized_state,addpostal_code,addcountry,cleansed_email,standardized_phone,z_cluster,z_isMatch
+CRM,1316294,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,ray,amason,933-15-1090,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,45665.0,US,rey@amason.com,(419) 738-9241,match_1,1
+CRM,1326294,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,ray,amason,933-15-1090,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,45665.0,US,rey@amason.com,(419) 738-9241,match_1,1
+CRM,1376294,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,ray,amason,933-15-1090,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,45665.0,US,rey@amason.com,,match_1,1
+MKT,1356294,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,ray,amason,283-51-4212,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,45665.0,US,rey@amason.com,(419) 738-9241,match_1,1
+MKT,1364608,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,rey,amason,283-51-4212,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,,US,rey@amason.com,(419) 738-9241,match_1,1
+CRM,1373064,10379,1318,,mary-ann,markes,218-33-0348,1993-11-18,1200 SUMMER ST #-103,STAMFORD,CONNECTICUT,6905.0,US,maryann@markes.com,(203) 967-5612,match_2,1
+CRM,1483060,10379,1318,,mary-ann,markes,218-33-0348,1993-11-18,1200 SUMMER ST #103,STAMFORD,CONNECTICUT,6905.0,US,maryann@markes.com,(203) 967-5612,match_2,1
+MKT,1439612,10629,1323,5da14b59-2040-4efa-95f9-d28e6d93e95a,rooney,buckbee,7,1965-08-11,7331 EAGLE CREST RD,QUWA,,,CN,rbuckbee2@macromedia.com,,match_3,1
+MKT,1445908,10629,1323,5da14b59-2040-4efa-95f9-d28e6d93e95a,rooney,buckbee,7,1965-08-11,7331 EAGLE CREST RD,QUWA,,,CN,rbuckbee2@macromedia.com,,match_3,1
+CRM,1316294,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,ray,amason,933-15-1090,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,45665.0,US,rey@amason.com,(419) 738-9241,nonmatch_4,0
+CRM,1326294,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,ray,amason,933-15-1090,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,45665.0,US,rey@amason.com,(419) 738-9241,nonmatch_4,0
+CRM,1376294,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,ray,amason,933-15-1090,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,45665.0,US,rey@amason.com,,nonmatch_4,0
+MKT,1356294,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,ray,amason,283-51-4212,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,45665.0,US,rey@amason.com,(419) 738-9241,nonmatch_4,0
+MKT,1364608,10518,1319,5da14b59-2040-4efa-95f9-d28e6d93e95a,rey,amason,283-51-4212,1975-12-16,3 DEPOT ST,WAPAKONETA,OHIO,,US,rey@amason.com,(419) 738-9241,nonmatch_4,0
+MKT,1439612,10629,1323,5da14b59-2040-4efa-95f9-d28e6d93e95a,rooney,buckbee,7,1965-08-11,7331 EAGLE CREST RD,QUWA,,,CN,rbuckbee2@macromedia.com,,nonmatch_4,0
+MKT,1445908,10629,1323,5da14b59-2040-4efa-95f9-d28e6d93e95a,rooney,buckbee,7,1965-08-11,7331 EAGLE CREST RD,QUWA,,,CN,rbuckbee2@macromedia.com,,nonmatch_4,0
