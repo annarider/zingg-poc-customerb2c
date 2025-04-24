@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV
-df = pd.read_csv("mi_person_245_all_columns.csv")
+df = pd.read_csv("mi_person_337_all_columns.csv")
 
 # Select only the columns you want to keep
 columns_to_keep = [
@@ -25,4 +25,4 @@ columns_to_keep = [
 df_clean = df[columns_to_keep]
 
 # Save the cleaned CSV
-df_clean.to_csv("mi_person_245.csv", index=False)
+df_clean.to_csv("mi_person_337.csv", index=False)
